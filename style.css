@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Boxone {
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+    height: 70px;
+    color: white;   
+}
+
+.ABA {
+    background-color: rgb(5, 107, 44);    
+    color: red;            
+    height: 300px;
+    width: 700px;
+    }
+.Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 65vh;
+}
